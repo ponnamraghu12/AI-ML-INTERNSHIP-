@@ -21,14 +21,10 @@ Version Control: Git & GitHub
 
 📂 Repository Structure
 AI-ML-Internship-Task1/
-├── dataset/
-│   ├── titanic.csv
-│   └── students_performance.csv
-├── notebook/
-│   └── Task 1_FIXED.ipynb
-├── report/
-│   └── Dataset_Analysis_Report_Task1.pdf
-├── README.md
+dataset/ titanic.csv/students_performance.csv
+notebook/Task 1_FIXED.ipynb
+report/ Dataset_Analysis_Report_Task1.pdf
+README.md
 
 🔍 Task Breakdown & Coverage
 1. Dataset Loading & Inspection
